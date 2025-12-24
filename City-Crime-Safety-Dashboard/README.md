@@ -2,13 +2,13 @@
 
 A professional, production-ready crime analytics platform built with Python, Streamlit, and scikit-learn. Features advanced ML models for crime prediction, interactive visualizations, and real-time filtering.
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Main Dashboard](screenshots/main_dashboard.png)
 
 ## ⚡ Quick Start
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/City-Crime-Safety-Dashboard.git
+git clone https://github.com/MRTVCK/City-Crime-Safety-Dashboard
 cd City-Crime-Safety-Dashboard
 
 # Create virtual environment
@@ -130,10 +130,8 @@ City-Crime-Safety-Dashboard/
 │   └── styles/
 │       └── custom_css.py        # Cyberpunk blue theme
 ├── scripts/
-│   ├── geo_utils.py             # Map utility functions
-│   └── model_comparison.py      # Systematic model testing
-└── tests/
-    └── (test files)
+    ├── geo_utils.py             # Map utility functions
+    └── model_comparison.py      # Systematic model testing
 ```
 
 ### Design Principles
