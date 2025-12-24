@@ -2,8 +2,6 @@
 
 A professional, production-ready crime analytics platform built with Python, Streamlit, and scikit-learn. Features advanced ML models for crime prediction, interactive visualizations, and real-time filtering.
 
-![Main Dashboard](screenshots/main_dashboard.png)
-
 ## ⚡ Quick Start
 
 ```bash
@@ -229,26 +227,6 @@ This will:
 - **Lazy Loading**: ML components load on-demand for faster initial page load
 - **Performance Optimization**: Handles 100K+ map points with intelligent sampling
 - **Accessibility**: High contrast colors, semantic HTML, keyboard navigation support
-
----
-
-## 📸 Screenshots
-
-### Main Dashboard
-![Main Dashboard](screenshots/main_dashboard.png)
-*Interactive crime map with real-time filtering by year, crime type, and neighborhood*
-
-### Risk Assessment
-![Risk Assessment](screenshots/risk_assessment.png)
-*Gradient Boosting model predicts high-risk time-location combinations*
-
-### Heat Map ML Hotspot Prediction
-![Hotspot Prediction](screenshots/heatmap_prediction.png)
-*Heat map identifies spatial crime concentration zones*
-
-### Most Dangerous Location
-![Location Importance](screenshots/location_importance.png)
-*Analysis showing which location is likely to have the most crime *
 
 ---
 
